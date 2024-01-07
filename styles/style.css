@@ -1,0 +1,160 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.title{
+  color: #FFF;
+text-align: right;
+font-size: 65px;
+font-weight: 700;
+padding-left: 50px;
+
+
+}
+.container{
+  padding: 216px 230px 195px 945px;
+  
+}
+.banner1{
+  background: url('/images/banner/banner3.png'), lightgray 50% / cover no-repeat;
+}
+.title-description{
+  color: #FFF;
+text-align: right;
+font-size: 16px;
+font-weight: 400;
+padding-left: 250px;
+}
+.btn-primary{
+  color: #005FAC;
+text-align: right;
+font-size: 20px;
+
+font-weight: 600;
+padding: 20px 25px;
+margin-left: 560px;
+margin-top:50px;
+border-radius: 5px;
+border: 0;
+
+
+}
+.future-info{
+  display: flex;
+  align-items: center;
+
+}
+.img{
+  margin-top: 140px;
+  margin-left: 240px;
+}
+.future-title{
+  color:  #151414;
+font-size: 40px;
+font-weight: 700;
+ margin-left: 128px;
+  margin-right: 600px;
+}
+.future-description{
+  color: #444343;
+font-size: 16px;
+font-weight: 400;
+margin-left:125px ;
+margin-right: 550px;
+padding-top: 20px;
+}
+.future-title-container{
+ 
+}
+.conta{
+  margin-left: 150px;
+  padding-top: 24px;
+}
+li{
+  padding-top: 10px;
+}
+.plan-title{
+  color: #151414;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+}
+.plan-container{
+  display: flex;
+
+  max-width: 1085px;
+  margin: 0 auto;
+    justify-content: space-between;
+}
+.my-plan{
+  padding: 24px;
+  text-align: center;
+}
+.plan-description{
+  margin-top: 10px;
+}
+.mindset{
+  background-image: url(/images/watch.png);
+  background-repeat: no-repeat;
+  padding-bottom: 230px;
+  background-position: center center;
+  /* margin-top: 35px;
+  margin-bottom: 30px */
+}
+.mind-title {
+  color: #FFF;
+font-size: 40px;
+font-weight: 700;
+margin-left: 430px;
+margin-right: 902px;
+padding-top: 154px;
+
+}
+.btn-primary2{
+  border-radius: 5px;
+background: #FFF;
+padding: 20px 35px;
+margin-left: 430px;
+margin-right: 902px;
+border: 0;
+margin-top: 24px;
+}
+footer{
+  background-color: #151414;
+  color: #FFF;
+ 
+}
+.parent{
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  padding: 130px 230px;
+}
+.description3{
+  max-width: 500px;
+}
+#email{
+  padding:10px;
+  background-color: #151414;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+  margin-top: 24px;
+}
+.btn-p{
+border-radius: 8px;
+background: #005FAC;
+padding: 15px 25px;
+border: 0;
+margin-top: 20px;
+}
+.i-parent{
+  display: flex;
+  /* margin-left: 400px; */
+  padding-top: 24px;
+  gap: 24px;
+}
